@@ -7,3 +7,5 @@
 </ol>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+
+![counter](https://[YourEndpoint].m.pipedream.net)
