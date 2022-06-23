@@ -6,3 +6,4 @@
 <li><b>Exploring UI/UX</b></li>
 </ol>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
