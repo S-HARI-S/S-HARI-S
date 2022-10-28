@@ -6,8 +6,8 @@
 
 
 <div align="center" >
- <p >Freshman Cse student<br>
- Currently learning ML<br>
+ <p >Sophomore Cse student<br>
+ Passionate about tech<br>
  Exploring UI/UX</p>
 </div>
 <br>
