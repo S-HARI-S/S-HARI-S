@@ -19,7 +19,7 @@
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td align="center"><strong>Learning</strong></td>
+<td align="center"><strong>Exploring</strong></td>
 <td align="center"><strong>My fav softwares</strong></td>
 </tr>
 <tr>
