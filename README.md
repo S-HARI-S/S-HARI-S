@@ -68,7 +68,7 @@
  
  
  
- <p>Get to know my vibe: https://open.spotify.com/playlist/4W4GGPwcWJDFqV4hfms9A8?si=565ca3ca8c594a70</p>
+ <p>I chill with : https://open.spotify.com/playlist/4W4GGPwcWJDFqV4hfms9A8?si=565ca3ca8c594a70</p>
     
   
  </div>
