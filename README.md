@@ -8,6 +8,7 @@
 <div align="center" >
  <p >Sophomore Cse student<br>
  Passionate about tech<br>
+  Web Dev<br>
   ML enthusiast<br>
  Exploring UI/UX</p>
 </div>
