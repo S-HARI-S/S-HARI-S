@@ -32,6 +32,10 @@
    <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
    <img src ="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+   <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+   <img src =" https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
+ 
  <br>
 
    <img src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -49,6 +53,7 @@
   <img src = "https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white">
   <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
  <img src = "https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+ <img src = "https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
  
  
  
