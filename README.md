@@ -50,12 +50,13 @@
   <img src = "https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white">
 <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+ <img src = "https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+ 
  
  
 
  <br>
  <img src = "https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
- <img src = "https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
  
  
  
