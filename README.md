@@ -6,7 +6,7 @@
 
 
 <div align="center" >
- <p >cse@college of engineering Trivandrum<br>
+ <p >cse @'college of engineering Trivandrum'<br>
  Passionate about tech<br>
   Web Dev<br>
   ML enthusiast<br>
