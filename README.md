@@ -6,7 +6,7 @@
 
 
 <div align="center" >
- <p >Sophomore Cse student<br>
+ <p >cse@college of engineering Trivandrum<br>
  Passionate about tech<br>
   Web Dev<br>
   ML enthusiast<br>
