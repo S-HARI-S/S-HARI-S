@@ -77,7 +77,7 @@
  
  
  
- <p>I chill with : [my spotify playlist](https://open.spotify.com/playlist/4W4GGPwcWJDFqV4hfms9A8?si=565ca3ca8c594a70)</p>
+ I chill with : [my spotify playlist](https://open.spotify.com/playlist/4W4GGPwcWJDFqV4hfms9A8?si=565ca3ca8c594a70)
     
   
  </div>
