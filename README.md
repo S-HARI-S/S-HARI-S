@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I’m Sreehari!</h2>
 
 <br>
-<div align="center"><strong>designer → dev<br>________________</strong></div>
+<div align="center"><strong>designer ↔ dev<br>________________</strong></div>
 <br>
 
 <div align="center">
